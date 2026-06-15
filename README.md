@@ -35,10 +35,7 @@ The dashboard updates dynamically based on selected filters, enabling deeper ana
 ---
 
 ## 📷 Dashboard Preview
-
-> Save your dashboard screenshot as **dashboard.png** in the repository and replace the path below if needed.
-
-![Dashboard Preview]
+Screenshot 2026-06-16 011435.png
 
 ---
 
