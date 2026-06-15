@@ -35,7 +35,8 @@ The dashboard updates dynamically based on selected filters, enabling deeper ana
 ---
 
 ## 📷 Dashboard Preview
-Screenshot 2026-06-16 011435.png
+
+<img width="1325" height="741" alt="Screenshot 2026-06-16 011435" src="https://github.com/user-attachments/assets/1dbe2c5b-0ec9-4257-b04f-150af60e7f47" />
 
 ---
 
